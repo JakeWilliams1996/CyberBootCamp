@@ -1,2 +1,0 @@
-# CyberBootCamp
-Elk Server Project
